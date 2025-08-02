@@ -76,6 +76,30 @@ npm run dev
 
 The application will be available at `http://localhost:8080`
 
+
+
+![Alt Text](assets/images/Screenshot 2025-08-02 152217.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Build for Production
 ```bash
 # Build both client and server
