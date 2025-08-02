@@ -78,12 +78,12 @@ The application will be available at `http://localhost:8080`
 
 
 
-![Project Screenshot](assets/images/1.png)
-![Project Screenshot](assets/images/2.png)
-![Project Screenshot](assets/images/3.png)
-![Project Screenshot](assets/images/4.png)
-![Project Screenshot](assets/images/5.png)
-![Project Screenshot](assets/images/6.png)
+![Project Screenshot](assests/images/1.png)
+![Project Screenshot](assests/images/2.png)
+![Project Screenshot](assests/images/3.png)
+![Project Screenshot](assests/images/4.png)
+![Project Screenshot](assests/images/5.png)
+![Project Screenshot](assests/images/6.png)
 
 
 
