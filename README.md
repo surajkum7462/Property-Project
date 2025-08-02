@@ -78,12 +78,12 @@ The application will be available at `http://localhost:8080`
 
 
 
-![Project Screenshot](assests/images/1.png)
-![Project Screenshot](assests/images/2.png)
-![Project Screenshot](assests/images/3.png)
-![Project Screenshot](assests/images/4.png)
-![Project Screenshot](assests/images/5.png)
-![Project Screenshot](assests/images/6.png)
+![Project Screenshot](https://github.com/surajkum7462/Property-Project/blob/main/assets/images/1.png?raw=true)
+![Project Screenshot](https://github.com/surajkum7462/Property-Project/blob/main/assets/images/2.png?raw=true)
+![Project Screenshot](https://github.com/surajkum7462/Property-Project/blob/main/assets/images/3.png?raw=true)
+![Project Screenshot](https://github.com/surajkum7462/Property-Project/blob/main/assets/images/4.png?raw=true)
+![Project Screenshot](https://github.com/surajkum7462/Property-Project/blob/main/assets/images/5.png?raw=true)
+![Project Screenshot](https://github.com/surajkum7462/Property-Project/blob/main/assets/images/6.png?raw=true)
 
 
 
