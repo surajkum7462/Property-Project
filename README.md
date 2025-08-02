@@ -78,7 +78,13 @@ The application will be available at `http://localhost:8080`
 
 
 
-![Alt Text](assets/images/Screenshot 2025-08-02 152217.png)
+![Project Screenshot](assets/images/1.png)
+![Project Screenshot](assets/images/2.png)
+![Project Screenshot](assets/images/3.png)
+![Project Screenshot](assets/images/4.png)
+![Project Screenshot](assets/images/5.png)
+![Project Screenshot](assets/images/6.png)
+
 
 
 
