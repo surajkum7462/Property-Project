@@ -267,7 +267,7 @@ The application is fully responsive and optimized for:
 
 For technical support or questions about this implementation:
 - **Company**: Terrian Bhuexpert Innovation Private Limited
-- **Technical Contacts**: asehiseh@bhuexpert.in, ansh@bhuexpert.in
+
 
 ---
 
